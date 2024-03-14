@@ -4,7 +4,7 @@
         "cover_img": "https://i.ibb.co/Wsh7SpM/sincerely-media-o-Kb-Hnbz2nj-Q-unsplash.jpg",
         "title": "The Art of Programming",
         "author": "John Doe",
-        "author_img": "https://example.com/johndoe.jpg",
+        "author_img": "https://i.ibb.co/ZHp2dzW/pexels-pranav-digwal-32976.jpg",
         "posted_date": "2024-03-14",
         "reading_time": "20 mins",
         "hashtags": ["programming", "coding", "technology"]
@@ -14,7 +14,7 @@
         "cover_img": "https://i.ibb.co/jhKbWVc/pexels-picography-4458.jpg",
         "title": "Cooking Adventures",
         "author": "Jane Smith",
-        "author_img": "https://example.com/janesmith.jpg",
+        "author_img": "https://i.ibb.co/TTHPhFY/pexels-pixabay-262391.jpg",
         "posted_date": "2024-03-13",
         "reading_time": "15 mins",
         "hashtags": ["cooking", "recipes", "food"]
@@ -24,7 +24,7 @@
         "cover_img": "https://i.ibb.co/1JDLw0L/pexels-kaboompics-com-6469.jpg",
         "title": "Travel Memoirs",
         "author": "David Brown",
-        "author_img": "https://example.com/davidbrown.jpg",
+        "author_img": "https://i.ibb.co/WxDdxYS/pexels-linkedin-sales-navigator-2182970.jpg",
         "posted_date": "2024-03-12",
         "reading_time": "30 mins",
         "hashtags": ["travel", "adventure", "explore"]
@@ -34,7 +34,7 @@
         "cover_img": "https://i.ibb.co/SX7rqb0/content-is-king-1132259-1920.jpg",
         "title": "Fitness Journey",
         "author": "Emily Green",
-        "author_img": "https://example.com/emilygreen.jpg",
+        "author_img": "https://i.ibb.co/7XbstJN/pexels-italo-melo-2379004.jpg",
         "posted_date": "2024-03-11",
         "reading_time": "25 mins",
         "hashtags": ["fitness", "exercise", "health"]
@@ -44,7 +44,7 @@
         "cover_img": "https://i.ibb.co/3mSpysd/social-media-423857-1920.jpg",
         "title": "Photography Tips",
         "author": "Michael Lee",
-        "author_img": "https://example.com/michaellee.jpg",
+        "author_img": "https://i.ibb.co/YN38Hg8/pexels-kampus-production-8353832.jpg",
         "posted_date": "2024-03-10",
         "reading_time": "18 mins",
         "hashtags": ["photography", "tips", "camera"]
